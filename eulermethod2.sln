@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eulermethod2", "eulermethod2\eulermethod2.csproj", "{D561858D-9B61-4830-86DC-E6FF61BFAB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D561858D-9B61-4830-86DC-E6FF61BFAB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D561858D-9B61-4830-86DC-E6FF61BFAB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D561858D-9B61-4830-86DC-E6FF61BFAB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D561858D-9B61-4830-86DC-E6FF61BFAB19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DEFEB80-B2C7-4857-B05E-584459500F19}
+	EndGlobalSection
+EndGlobal

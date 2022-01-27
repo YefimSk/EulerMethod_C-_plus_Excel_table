@@ -1,0 +1,7 @@
+D:\Учеба\магистратура\Мат. моделирование\семинар2\eulermethod2\eulermethod2\bin\Debug\eulermethod2.exe.config
+D:\Учеба\магистратура\Мат. моделирование\семинар2\eulermethod2\eulermethod2\bin\Debug\eulermethod2.exe
+D:\Учеба\магистратура\Мат. моделирование\семинар2\eulermethod2\eulermethod2\bin\Debug\eulermethod2.pdb
+D:\Учеба\магистратура\Мат. моделирование\семинар2\eulermethod2\eulermethod2\obj\Debug\eulermethod2.csprojAssemblyReference.cache
+D:\Учеба\магистратура\Мат. моделирование\семинар2\eulermethod2\eulermethod2\obj\Debug\eulermethod2.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\Мат. моделирование\семинар2\eulermethod2\eulermethod2\obj\Debug\eulermethod2.exe
+D:\Учеба\магистратура\Мат. моделирование\семинар2\eulermethod2\eulermethod2\obj\Debug\eulermethod2.pdb
